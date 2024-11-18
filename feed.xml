@@ -3,7 +3,7 @@
     <title>My Test</title>
     <link href="https://paulhibbitts.github.io/publii-test/feed.xml" rel="self" />
     <link href="https://paulhibbitts.github.io/publii-test" />
-    <updated>2024-11-18T08:09:48-08:00</updated>
+    <updated>2024-11-18T09:31:36-08:00</updated>
     <author>
         <name>Paul Hibbitts</name>
     </author>
@@ -20,12 +20,12 @@
         <updated>2024-11-18T08:09:48-08:00</updated>
             <summary>
                 <![CDATA[
-                    bvbcvbvbcvbvbvbvbv
+                    This is my test post.
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p>bvbcvbvbcvbvbvbvbv</p>
+                <p>This is my test post.</p>
             ]]>
         </content>
     </entry>

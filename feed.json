@@ -13,15 +13,15 @@
             "id": "https://paulhibbitts.github.io/publii-test/hello.html",
             "url": "https://paulhibbitts.github.io/publii-test/hello.html",
             "title": "Hello",
-            "summary": "bvbcvbvbcvbvbvbvbv",
-            "content_html": "<p>bvbcvbvbcvbvbvbvbv</p>",
+            "summary": "This is my test post.",
+            "content_html": "<p>This is my test post.</p>",
             "author": {
                 "name": "Paul Hibbitts"
             },
             "tags": [
             ],
             "date_published": "2024-11-18T08:09:48-08:00",
-            "date_modified": "2024-11-18T08:09:48-08:00"
+            "date_modified": "2024-11-18T09:31:36-08:00"
         }
     ]
 }
