@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>My Test</title>
+    <link href="https://paulhibbitts.github.io/publii-test/feed.xml" rel="self" />
+    <link href="https://paulhibbitts.github.io/publii-test" />
+    <updated>2024-11-18T08:09:48-08:00</updated>
+    <author>
+        <name>Paul Hibbitts</name>
+    </author>
+    <id>https://paulhibbitts.github.io/publii-test</id>
+
+    <entry>
+        <title>Hello</title>
+        <author>
+            <name>Paul Hibbitts</name>
+        </author>
+        <link href="https://paulhibbitts.github.io/publii-test/hello.html"/>
+        <id>https://paulhibbitts.github.io/publii-test/hello.html</id>
+
+        <updated>2024-11-18T08:09:48-08:00</updated>
+            <summary>
+                <![CDATA[
+                    bvbcvbvbcvbvbvbvbv
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>bvbcvbvbcvbvbvbvbv</p>
+            ]]>
+        </content>
+    </entry>
+</feed>
